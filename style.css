@@ -1,0 +1,48 @@
+body{
+	font-family: Calibri, Arial;
+	text-align: center;
+	background: #BBB;
+	background: -o-linear-gradient(#BBB,#F3F3F3);
+	background: -webkit-linear-gradient(#BBB,#F3F3F3);
+	background: -moz-linear-gradient(#BBB,#F3F3F3);
+	background: linear-gradient(#BBB,#F3F3F3);
+}
+
+a{
+	display: inline-block;
+	text-decoration: none;
+	color: blue;
+}
+
+a:after{
+	display: block;
+	content: '';
+	border-bottom: solid 1px black;
+	transform: scaleX(0);
+	transition: transform 300ms;
+}
+
+a:hover{
+	color: black;
+	transform-origin: 50% 50%;
+}
+
+a:hover:after{
+	transform: scaleX(1);
+}
+
+p{
+	font-size: 110%;
+}
+
+.arial{
+	font-family: arial black;
+	padding: 2em;
+	font-size: 250%;
+	text-align: center;
+	color: #000000;
+}
+
+ul{
+	list-style: none;
+}
