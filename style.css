@@ -1,5 +1,5 @@
 body{
-	font-family: Calibri, Arial;
+	font-family: MuseoModerno, Calibri, Arial, serif;
 	text-align: center;
 	background: #BBB;
 	background: -o-linear-gradient(#BBB,#F3F3F3);
@@ -11,7 +11,7 @@ body{
 a{
 	display: inline-block;
 	text-decoration: none;
-	color: blue;
+	color: #00fff7;
 }
 
 a:after{
@@ -36,11 +36,11 @@ p{
 }
 
 .arial{
-	font-family: arial black;
+	font-family: Arial, Calibri, serif;
 	padding: 2em;
 	font-size: 250%;
 	text-align: center;
-	color: #000000;
+	color: #5bd59b;
 }
 
 ul{
