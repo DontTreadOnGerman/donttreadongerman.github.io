@@ -1,5 +1,5 @@
 body{
-	font-family: arial black, calibri, serif;
+	font-family: MuseoModerno, arial black, calibri, serif;
 	text-align: center;
 	background: #4e4e4e;
 	background: -o-linear-gradient(#4e4e4e,#F3F3F3);
@@ -36,7 +36,7 @@ p{
 }
 
 .arial{
-	font-family: arial black, calibri, serif;
+	font-family: MuseoModerno, arial black, calibri, serif;
 	padding: 2em;
 	font-size: 250%;
 	text-align: center;
