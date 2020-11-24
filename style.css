@@ -1,17 +1,17 @@
 body{
-	font-family: MuseoModerno, Calibri, Arial, serif;
+	font-family: Calibri, Arial, serif;
 	text-align: center;
-	background: #BBB;
-	background: -o-linear-gradient(#BBB,#F3F3F3);
-	background: -webkit-linear-gradient(#BBB,#F3F3F3);
-	background: -moz-linear-gradient(#BBB,#F3F3F3);
-	background: linear-gradient(#BBB,#F3F3F3);
+	background: #4e4e4e;
+	background: -o-linear-gradient(#4e4e4e,#F3F3F3);
+	background: -webkit-linear-gradient(#4e4e4e,#F3F3F3);
+	background: -moz-linear-gradient(#4e4e4e,#F3F3F3);
+	background: linear-gradient(#4e4e4e,#F3F3F3);
 }
 
 a{
 	display: inline-block;
 	text-decoration: none;
-	color: #00fff7;
+	color: #ffffff;
 }
 
 a:after{
